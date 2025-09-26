@@ -7,16 +7,18 @@
 ---
 
 ## 🔭 Şu Anda Üzerinde Çalıştıklarım
-- React site geliştirme
-- Node.js + React projeleri
+- Node.JS + React ile server-client taraflı projeler geliştirmek
+- C dilinde program geliştirmek
 
 ---
 
 ## 🌱 Öğrenmekte Olduklarım
-- DevOps & Sunucu Yönetimi  
+- DevOps & Sunucu Yönetimi (Node.JS)
 - İleri Seviye Veritabanı Tasarımı (MySQL, Firebase Firestore)  
 - React ile performanslı site gelişimi
 - C dili ve algoritmalar
+- Linux
+- Siber Güvenlik
 
 ---
 
@@ -31,12 +33,13 @@
 ---
 
 ## 📫 Bana Ulaş
-- [LinkedIn](https://www.linkedin.com/in/halil-hattab-b961b127a/)  
-- [GitHub](https://github.com/trs-1342)  
+- [LinkedIn](https://www.linkedin.com/in/halil-hattab-b961b127a/)
+- [GitHub](https://github.com/trs-1342)
+- Blog Sayfam: [HelloWorld!](https://hello-world-mu-cyan.vercel.app/)
 - E-posta: hattab1342@gmail.com
 
 ---
 
 ## ⚡ Hakkımda Kısa Bilgiler
 - Felsefe, bilim ve din üzerine saatlerce tartışabilirim  
-- Hobilerim: kitap okumak, yazılım geliştirmek, müzik dinlemek ve düşünmek
+- Hobilerim: kitap okumak, günlük tutmak, yazılım geliştirmek, araştırmak, müzik dinlemek ve düşünmek
