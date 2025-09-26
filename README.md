@@ -1,6 +1,6 @@
 # Merhaba 👋 Ben Halil   
 
-🎓 İstanbul Gelişim Üniversitesi Yazılım Mühendisliği öğrencisiyim.
+🎓 İstanbul Gelişim Üniversitesi 1. Sınıf Yazılım Mühendisliği öğrencisiyim.
 💻 **Full-Stack Development, Siber Güvenlik ve Yaratıcı Projeler** ile ilgileniyorum.
 🚀 Amacım: Yazılım dünyasında unutulmaz olmak ve adımı tarihe yazdırmak ve bu yolda etik değerler çerçevesinde yazılımda gelişmek. 
 
