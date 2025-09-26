@@ -35,7 +35,7 @@
 ## 📫 Bana Ulaş
 - [LinkedIn](https://www.linkedin.com/in/halil-hattab-b961b127a/)
 - [GitHub](https://github.com/trs-1342)
-- Blog Sayfam: [HelloWorld!](https://hello-world-mu-cyan.vercel.app/)
+- Kişisel Sayfam: [HelloWorld!](https://hello-world-mu-cyan.vercel.app/)
 - E-posta: hattab1342@gmail.com
 
 ---
