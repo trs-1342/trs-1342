@@ -48,7 +48,7 @@
 
 <p id="support-me">
   <a href="https://www.buymeacoffee.com/trs1342">
-    <img src="./assets/bmc.png" alt="Bana kahve ısmarlayarak destek ol" width="200">
+    <img src="./assets/bmc.png" target='_blank' alt="Bana kahve ısmarlayarak destek ol" width="200">
   </a>
 </p>
 
