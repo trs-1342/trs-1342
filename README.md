@@ -78,6 +78,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-sublime-text-logo-icon-svg-download-png-2945191.png?f=webp&w=256" alt="Sublime Text" title="Sublime Text" width="36" height="36" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" title="Vim" width="36" height="36" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" />
+  <img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" alt="AI" title="AI" width="36" height="36"/>
 </p>
 
 ---
