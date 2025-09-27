@@ -10,7 +10,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=trs-1342&show_icons=true&hide_title=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trs-1342&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trs-1342&layout=compact" width="355" />
 
 </div>
 
@@ -45,17 +45,35 @@
 
 ---
 
+## 🛠️ Yetenekler / Diller
+
+<p align="left">
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="36" height="36" />
+  &nbsp;
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="36" height="36" />
+  &nbsp;
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+  &nbsp;
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+  &nbsp;
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36" />
+  &nbsp;
+</p>
+
+
+---
+
 ## 📫 Bana Ulaş
 
-<p>
-  <a href="https://github.com/trs-1342"><img src="https://img.shields.io/badge/GitHub-trs--1342-black" alt="GitHub"></a>
-  <br/>
-  <a href="https://www.linkedin.com/in/halil-hattab-b961b127a/"><img src="https://img.shields.io/badge/LinkedIn-Halil%20Hattab-blue" alt="LinkedIn"></a>
-  <br/>
-  <a href="mailto:hattab1342@gmail.com"><img src="https://img.shields.io/badge/E--posta-hattab1342%40gmail.com-red" alt="E-Mail"></a>
-  <br/>
-  <a href="https://hello-world-mu-cyan.vercel.app/"><img src="https://img.shields.io/badge/Kişisel%20Site-HelloWorld-ff7f50" alt="Profotolyo Sitem"></a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/halil-hattab-b961b127a/
+- GitHub: https://github.com/trs-1342
+- Profotolyo Sayfam: https://hello-world-mu-cyan.vercel.app/
+- E-Mail: hattab1342@gmail.com
 
 ---
 
