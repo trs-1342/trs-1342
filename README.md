@@ -36,12 +36,39 @@
 
 ## 📌 Öne Çıkan Projelerim
 
-| Proje         | Teknolojiler  | Açıklama                                                                                              | Link                                           |
-| ------------- | ------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| ETSTSR 🛠      | JavaScript    | Teknik servislerin cihaz kayıtlarını tutup düzenleyebildiği sistem                                    | [Repo](https://github.com/trs-1342/ETSTSR)     |
-| BUDU 🎨       | TypeScript    | Tasarımcıların video kurslarını yükleyip kullanıcıların ödeme sonrası öğrenebileceği eğitim platformu | [Repo](https://github.com/trs-1342/budu)       |
-| C-Lang 📘     | C             | Üniversite 1. sınıfta alacağım C dersi için örnekler ve çalışmalar                                    | [Repo](https://github.com/trs-1342/c-lang)     |
-| HelloWorld 🌐 | HTML, CSS, JS | Basit kişisel web sitem (ileride geliştirilecek)                                                      | [Repo](https://github.com/trs-1342/helloWorld) |
+<table>
+  <tr>
+    <th>Proje</th>
+    <th>Teknolojiler</th>
+    <th>Açıklama</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td style="background-color:gold; font-weight:bold;">ETSTSR 🛠</td>
+    <td>JavaScript</td>
+    <td>Teknik servislerin cihaz kayıtlarını tutup düzenleyebildiği sistem</td>
+    <td><a href="https://github.com/trs-1342/ETSTSR">Repo</a></td>
+  </tr>
+  <tr>
+    <td>BUDU 🎨</td>
+    <td>TypeScript</td>
+    <td>Tasarımcıların video kurslarını yükleyip kullanıcıların ödeme sonrası öğrenebileceği eğitim platformu</td>
+    <td><a href="https://github.com/trs-1342/budu">Repo</a></td>
+  </tr>
+  <tr>
+    <td>C-Lang 📘</td>
+    <td>C</td>
+    <td>Üniversite 1. sınıfta alacağım C dersi için örnekler ve çalışmalar</td>
+    <td><a href="https://github.com/trs-1342/c-lang">Repo</a></td>
+  </tr>
+  <tr>
+    <td>HelloWorld 🌐</td>
+    <td>HTML, CSS, JS</td>
+    <td>Basit kişisel web sitem (ileride geliştirilecek)</td>
+    <td><a href="https://github.com/trs-1342/helloWorld">Repo</a></td>
+  </tr>
+</table>
+
 
 ---
 
