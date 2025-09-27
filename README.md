@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FF0000&text=trs-1342&section=header&reversal=false&fontColor=fff&fontAlignY=42&animation=fadeIn&textBg=false&desc=Defend%20the%20moral%20concept%20in%20software."/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FF0000&text=trs-1342&section=header&reversal=false&fontColor=fff&fontAlignY=42&animation=fadeIn&textBg=false&desc=Defend%20the%20moral%20concept%20in%20software."
+    alt="trs-1342"
+    style="pointer-events:none; user-select:none;"
+    draggable="false"
+  />
 </p>
 
 # Merhaba 👋 Ben Halil
@@ -7,8 +12,6 @@
 🎓 İstanbul Gelişim Üniversitesi 1. Sınıf Yazılım Mühendisliği öğrencisiyim.
 💻 **Full-Stack Development, Siber Güvenlik ve Yaratıcı Projeler** ile ilgileniyorum.
 🚀 Amacım: Yazılım dünyasında unutulmaz olmak ve adımı tarihe yazdırmak ve bu yolda etik değerler çerçevesinde yazılımda gelişmek.
-
-<a href="https://www.github.com/trs-1342" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/trs-1342?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 
