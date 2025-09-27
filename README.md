@@ -17,7 +17,9 @@
 # Merhaba 👋 Ben Halil
 
 🎓 İstanbul Gelişim Üniversitesi 1. sınıf **Yazılım Mühendisliği** öğrencisiyim.
+
 💻 **Full-Stack**, **Siber Güvenlik** ve **yaratıcı projeler** ile ilgileniyorum.
+
 🚀 Amacım: etik değerleri koruyarak yazılımda unutulmaz olmak ve adımı tarihe yazdırmak.
 
 ---
