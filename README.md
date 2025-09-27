@@ -24,7 +24,9 @@
 
 ## 🔭 Şu Anda Üzerinde Çalıştıklarım
 - **Node.js + React** ile client-server projeler
+    - [BUDU](https://github.com/trs-1342/budu) deposu
 - **C** dilinde temel araçlar ve algoritmalar
+    - [C-LANG](https://github.com/trs-1342/c-lang) deposu
 
 ## 🌱 Öğrenmekte Olduklarım
 - **DevOps & Sunucu Yönetimi** (Node.js ekosistemi)
