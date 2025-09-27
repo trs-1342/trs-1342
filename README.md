@@ -84,10 +84,10 @@
 
 ## 📫 Bana Ulaş
 
-- LinkedIn: https://www.linkedin.com/in/halil-hattab-b961b127a/
-- GitHub: https://github.com/trs-1342
-- Profotolyo Sayfam: https://hello-world-mu-cyan.vercel.app/
-- E-Mail: hattab1342@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/halil-hattab-b961b127a/)
+- [GitHub](https://github.com/trs-1342)
+- [Profotolyo Sayfam](https://hello-world-mu-cyan.vercel.app/)
+- hattab1342@gmail.com
 
 ---
 
