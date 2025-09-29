@@ -14,6 +14,8 @@
 
 </div>
 
+[\[TR\]](./README.tr.md)
+
 # Hello 👋 I'm Halil
 
 🎓 I'm a **1st-year Software Engineering student** at Istanbul Gelişim University.

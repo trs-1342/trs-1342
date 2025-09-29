@@ -14,6 +14,8 @@
 
 ---
 
+[\[EN\]](./README.md)
+
 # Merhaba 👋 Ben Halil
 
 🎓 İstanbul Gelişim Üniversitesi 1. sınıf **Yazılım Mühendisliği** öğrencisiyim.  
