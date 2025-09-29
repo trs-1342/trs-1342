@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FF0000&text=trs-1342&section=header&reversal=false&fontColor=fff&fontAlignY=42&animation=fadeIn&textBg=false&desc=Defend%20the%20moral%20concept%20in%20software."
-    alt="trs-1342 kapak görseli"
+    src="https://capsule-render.vercel.app/api?type=blur&height=342&color=FF0000&text=trs-1342&section=header&reversal=true&textBg=false&animation=fadeIn&desc=Defend%20the%20moral%20concept%20in%20software.&fontColor=fff&fontSize=62&descSize=22"
+    alt="trs-1342 cover image"
     style="pointer-events:none; user-select:none;"
     draggable="false"
   />
@@ -14,63 +14,40 @@
 
 </div>
 
-![[EN]](./README.tr.md)
-
 # Hello 👋 I'm Halil
 
-🎓 İstanbul Gelişim Üniversitesi 1. sınıf **Yazılım Mühendisliği** öğrencisiyim.
-💻 **Full-Stack**, **Siber Güvenlik** ve **yaratıcı projeler** ile ilgileniyorum.
-🚀 Amacım: etik değerleri koruyarak yazılımda unutulmaz olmak ve adımı tarihe yazdırmak.
+🎓 I'm a **1st-year Software Engineering student** at Istanbul Gelişim University.
+
+💻 I'm interested in **Full-Stack Development**, **Cybersecurity**, and **creative projects**.
+
+🚀 My goal: to become unforgettable in software while preserving ethical values and have my name written in history.
 
 ---
 
-## 🔭 Şu Anda Üzerinde Çalıştıklarım
-- **Node.js + React** ile client-server projeler
-- **C** dilinde temel araçlar ve algoritmalar
+## 🔭 What I'm Currently Working On
 
-## 🌱 Öğrenmekte Olduklarım
-- **DevOps & Sunucu Yönetimi** (Node.js ekosistemi)
-- **Veritabanı Tasarımı** (MySQL, Firebase Firestore)
-- **React** performans pratikleri
-- **Linux** ve **Siber Güvenlik** temelleri
+- **Client-server projects** with **Node.js + React**
+  - [BUDU](https://github.com/trs-1342/budu) repository
+- **Basic tools and algorithms** in **C language**
+  - [C-LANG](https://github.com/trs-1342/c-lang) repository
+
+## 🌱 What I'm Learning
+
+- **DevOps & Server Management** (Node.js ecosystem)
+- **Database Design** (MySQL, Firebase Firestore)
+- **React** performance practices
+- **Linux** and **Cybersecurity** fundamentals
 
 ---
 
-## 📌 Öne Çıkan Projelerim
+## 📌 Featured Projects
 
-<table>
-  <tr>
-    <th>Proje</th>
-    <th>Teknolojiler</th>
-    <th>Açıklama</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td style="background-color:gold; font-weight:bold;">ETSTSR 🛠</td>
-    <td>JavaScript</td>
-    <td>Teknik servislerin cihaz kayıtlarını tutup düzenleyebildiği sistem</td>
-    <td><a href="https://github.com/trs-1342/ETSTSR">Repo</a></td>
-  </tr>
-  <tr>
-    <td>BUDU 🎨</td>
-    <td>TypeScript</td>
-    <td>Tasarımcıların video kurslarını yükleyip kullanıcıların ödeme sonrası öğrenebileceği eğitim platformu</td>
-    <td><a href="https://github.com/trs-1342/budu">Repo</a></td>
-  </tr>
-  <tr>
-    <td>C-Lang 📘</td>
-    <td>C</td>
-    <td>Üniversite 1. sınıfta alacağım C dersi için örnekler ve çalışmalar</td>
-    <td><a href="https://github.com/trs-1342/c-lang">Repo</a></td>
-  </tr>
-  <tr>
-    <td>HelloWorld 🌐</td>
-    <td>HTML, CSS, JS</td>
-    <td>Basit kişisel web sitem (ileride geliştirilecek)</td>
-    <td><a href="https://github.com/trs-1342/helloWorld">Repo</a></td>
-  </tr>
-</table>
-
+| Project                                       | Technologies  | Description                                                                                | Link                                           |
+| --------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| <img src="./assets/etstsr.svg" height="24" /> | JavaScript    | A system for technical services to record and manage devices                               | [Repo](https://github.com/trs-1342/ETSTSR)     |
+| BUDU 🎨                                       | TypeScript    | An educational platform where designers upload video courses and users learn after payment | [Repo](https://github.com/trs-1342/budu)       |
+| C-Lang 📘                                     | C             | Examples and exercises for my 1st-year university C programming course                     | [Repo](https://github.com/trs-1342/c-lang)     |
+| HelloWorld 🌐                                 | HTML, CSS, JS | A simple personal website (to be developed further)                                        | [Repo](https://github.com/trs-1342/helloWorld) |
 
 ---
 
@@ -108,17 +85,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" title="Visual Studio 2022" width="36" height="36" />&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-sublime-text-logo-icon-svg-download-png-2945191.png?f=webp&w=256" alt="Sublime Text" title="Sublime Text" width="36" height="36" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" title="Vim" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" />&nbsp;
+  <img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" alt="AI" title="AI" width="36" height="36"/>&nbsp;
+  <img src="https://dl.flathub.org/media/com/raggesilver/BlackBox/5ea8e6c79d6e7b5384973b766a059ac9/icons/128x128@2/com.raggesilver.BlackBox.png" alt="BlackBox" title="BlackBox" width="36" height="36"/>
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/halil-hattab-b961b127a/
-- GitHub: https://github.com/trs-1342
-- Profotolyo Sayfam: https://hello-world-mu-cyan.vercel.app/
-- E-Mail: hattab1342@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/halil-hattab-b961b127a/)
+- [GitHub](https://github.com/trs-1342)
+- [Portfolio Page](https://hello-world-mu-cyan.vercel.app/)
+- hattab1342@gmail.com
 
 ---
 
