@@ -14,7 +14,7 @@
 
 </div>
 
-![\[EN\]](./README.en.md)
+![\[EN\]](./README.md)
 
 # Hello 👋 I'm Halil
 
