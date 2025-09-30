@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=342&color=FF0000&text=trs-1342&section=header&reversal=true&textBg=false&animation=fadeIn&desc=Defend%20the%20moral%20concept%20in%20software.&fontColor=fff&fontSize=62&descSize=22"
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=trs-1342&fontColor=787878&section=header&desc=Defend%20the%20moral%20concept%20in%20software.&animation=fadeIn&textBg=false&reversal=false"
     alt="trs-1342 cover image"
     style="pointer-events:none; user-select:none;"
     draggable="false"
