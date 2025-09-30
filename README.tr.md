@@ -12,8 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trs-1342&layout=compact" width="355" />
 </div>
 
----
-
 [\[EN\]](./README.md)
 
 # Merhaba 👋 Ben Halil
