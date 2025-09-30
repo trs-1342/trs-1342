@@ -15,7 +15,9 @@
 </div>
 
 [\[TR\]](./README.tr.md)
-
+<br>
+<br>
+![Profile views](https://komarev.com/ghpvc/?username=trs-1342&color=000000&labelColor=000000&style=flat&label=Profile%20views)
 # Hello 👋 I'm Halil
 
 🎓 I'm a **1st-year Software Engineering student** at Istanbul Gelişim University.
