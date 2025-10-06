@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FF0000&text=trs-1342&section=header&reversal=true&animation=fadeIn&fontColor=fff&fontSize=62&desc=Defend%20the%20moral%20concept%20in%20software.&descSize=20"
-    alt="trs-1342 kapak görseli"
+    src="https://capsule-render.vercel.app/api?type=blur&height=400&color=ff0000&text=trs-1342&fontSize=90&desc=I%20defend%20the%20moral%20concept%20in%20software.&descSize=40&descAlign=50&descAlignY=75&reversal=true&section=footer&fontColor=fff"
+    alt="trs-1342 cover image"
     style="pointer-events:none; user-select:none;"
     draggable="false"
   />
