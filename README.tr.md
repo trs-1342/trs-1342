@@ -95,7 +95,7 @@
 - [LinkedIn](https://www.linkedin.com/in/halil-hattab-b961b127a/)
 - [GitHub](https://github.com/trs-1342)
 - [Portfolyo Sayfam](https://hello-world-mu-cyan.vercel.app/)
-- 📧 hattab1342@gmail.com
+- hattab1342@gmail.com
 
 ---
 
