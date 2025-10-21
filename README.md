@@ -49,7 +49,7 @@
 | <img src="./assets/etstsr.svg" height="24" /> | JavaScript    | A system for technical services to record and manage devices                               | [Repo](https://github.com/trs-1342/ETSTSR)     |
 | BUDU 🎨                                       | TypeScript    | An educational platform where designers upload video courses and users learn after payment | [Repo](https://github.com/trs-1342/budu)       |
 | C-Lang 📘                                     | C             | Examples and exercises for my 1st-year university C programming course                     | [Repo](https://github.com/trs-1342/c-lang)     |
-| HelloWorld 🌐                                 | HTML, CSS, JS | A simple personal website (to be developed further)                                        | [Repo](https://github.com/trs-1342/helloWorld) |
+| My Portfolio 🌐                               | Next.JS & Vercel | A simple personal website (to be developed further)                                        | [Repo](https://github.com/trs-1342/my-portfolio) |
 
 ---
 
