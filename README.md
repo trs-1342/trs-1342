@@ -1,43 +1,36 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=400&color=ff0000&text=trs-1342&fontSize=90&desc=I%20defend%20the%20moral%20concept%20in%20software.&descSize=40&descAlign=50&descAlignY=75&reversal=true&section=footer&fontColor=fff"
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=trs-1342&height=200&fontSize=80&desc=Defending%20the%20moral%20concept%20in%20software.&descAlign=50&descAlignY=75"
     alt="trs-1342 cover image"
     style="pointer-events:none; user-select:none;"
     draggable="false"
   />
 </p>
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=trs-1342&show_icons=true&hide_title=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trs-1342&layout=compact" width="355" />
+---
+[[TR](./README.tr.md)]
+# 👋 Hello, I'm Halil
 
-</div>
-
-[\[TR\]](./README.tr.md)
-
-# Hello 👋 I'm Halil
-
-🎓 I'm a **1st-year Software Engineering student** at Istanbul Gelişim University.
-
-💻 I'm interested in **Full-Stack Development**, **Cybersecurity**, and **creative projects**.
-
-🚀 My goal: to become unforgettable in software while preserving ethical values and have my name written in history.
+🎓 Software Engineering student @ Istanbul Gelişim University
+💻 Building full-stack web applications with **Node.js**, **React**, **Next.JS**, **MySql** and **Firebase**
+🔐 Passionate about **cybersecurity**, **clean design**, and **ethical software**
 
 ---
 
-## 🔭 What I'm Currently Working On
+## 🔭 Current Projects
 
-- **Client-server projects** with **Node.js + React**
-  - [BUDU](https://github.com/trs-1342/budu) repository
-- **Basic tools and algorithms** in **C language**
-  - [C-LANG](https://github.com/trs-1342/c-lang) repository
+- **[BUDU](https://github.com/trs-1342/budu)** – Design-course platform built with React + MySql
+- **[ETSTSR](https://github.com/trs-1342/ETSTSR)** – Technical-service management system using Node.js + React + MySQL
+- **[C-LANG](https://github.com/trs-1342/c-lang)** – Academic repository for C algorithms and examples
 
-## 🌱 What I'm Learning
+---
 
-- **DevOps & Server Management** (Node.js ecosystem)
-- **Database Design** (MySQL, Firebase Firestore)
-- **React** performance practices
-- **Linux** and **Cybersecurity** fundamentals
+## 🌱 Currently Exploring
+
+- **DevOps & Server Management** within Node.js ecosystem  
+- **React performance** and **Next.js optimization**
+- **Serverless architecture** using Firebase Functions
+- **Linux & cybersecurity** fundamentals
 
 ---
 
@@ -52,84 +45,83 @@
 
 ---
 
-## 🧠 Programming Languages
+## 🧱 Tech Stack
+
+### 🧠 Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="36" height="36"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="36" height="36"/>
 </p>
 
-## ⚙️ Backend Frameworks & Runtimes
+### ⚙️ Frameworks & Runtimes
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js (SSR)" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="36" height="36"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=Pxe6MGswB8pX&format=png" title="EJS" width="36" height="36"/>
 </p>
 
-## 🎨 Frontend Frameworks & Runtimes
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React / React Native" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="36" height="36"/>
-</p>
-
-## ☁️ Cloud & Deployment
+### ☁️ Cloud & Deployment
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Pages / Actions" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Actions / Pages" width="36" height="36"/>
 </p>
 
-## 🗄️ Databases
+### 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="36" height="36"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="36" height="36"/>
 </p>
 
-## 🧰 Tools & Editors
+### 🧰 Tools & Editors
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio 2022" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-sublime-text-logo-icon-svg-download-png-2945191.png?f=webp&w=256" title="Sublime Text" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" width="36" height="36"/>&nbsp;
   <img src="https://dl.flathub.org/media/com/raggesilver/BlackBox/5ea8e6c79d6e7b5384973b766a059ac9/icons/128x128@2/com.raggesilver.BlackBox.png" title="BlackBox" width="36" height="36"/>&nbsp;
   <img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" title="AI Tools" width="36" height="36"/>
 </p>
 
-
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Insights
 
-- [LinkedIn](https://www.linkedin.com/in/halil-hattab-b961b127a/)
-- [GitHub](https://github.com/trs-1342)
-- [Portfolio Page](https://hello-world-mu-cyan.vercel.app/)
-- hattab1342@gmail.com
-
----
-
-## ☕ Support Me
-
-<p id="support-me">
-  <a href="https://www.buymeacoffee.com/trs1342" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/bmc.png" alt="Buy me a coffee" width="200">
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trs-1342&show_icons=true&hide_border=false&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trs-1342&layout=compact&theme=transparent" height="150" />
 </p>
 
 ---
 
-## ⚡ Quick Facts About Me
+## 📫 Contact
 
-- I enjoy long conversations about philosophy, science, and religion.
-- My hobbies: reading books, journaling, software development, researching, music, and deep thinking.
+- 🌐 [Portfolio](https://hattab.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/halil-hattab-b961b127a/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle;margin-right:8px;" /> [GitHub](https://github.com/trs-1342)
+- ✉️ hattab1342@gmail.com
+
+---
+
+## ⚡ A Few Things About Me
+
+- I believe software is not just code — it’s a reflection of ethics.  
+- I enjoy exploring intersections between **philosophy, science, and technology**.
+- Books, minimal design, and long debates keep me inspired.  
+- I build things that I want to *outlive* me.
+
+---
+
+<h2 align="center">Support My Work</h2>
+<p align="center">If you find my work valuable, you can support me by buying me a coffee!</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/trs1342" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/bmc.png" alt="Buy me a coffee" width="180">
+  </a>
+</p>
