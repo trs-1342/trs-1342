@@ -7,8 +7,7 @@
   />
 </p>
 
-<div align="center">
-
+<div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=trs-1342&show_icons=true&hide_title=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trs-1342&layout=compact" width="355" />
 
@@ -53,44 +52,61 @@
 
 ---
 
-## 🛠️ Skills / Languages
-
-### Languages
-
+## 🧠 Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="36" height="36" />
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" title="SQL" width="36" height="36" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="36" height="36"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="36" height="36"/>
 </p>
 
-### Frameworks / Libraries & Technologies
-
+## ⚙️ Backend Frameworks & Runtimes
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" width="36" height="36" />&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=Pxe6MGswB8pX&format=png" alt="EJS" title="EJS" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React / React Native" title="React / React Native" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js (SSR)" width="36" height="36"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=Pxe6MGswB8pX&format=png" title="EJS" width="36" height="36"/>
 </p>
 
-### Editors & Tools
-
+## 🎨 Frontend Frameworks & Runtimes
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" title="Visual Studio 2022" width="36" height="36" />&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-sublime-text-logo-icon-svg-download-png-2945191.png?f=webp&w=256" alt="Sublime Text" title="Sublime Text" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" title="Vim" width="36" height="36" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" />&nbsp;
-  <img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" alt="AI" title="AI" width="36" height="36"/>&nbsp;
-  <img src="https://dl.flathub.org/media/com/raggesilver/BlackBox/5ea8e6c79d6e7b5384973b766a059ac9/icons/128x128@2/com.raggesilver.BlackBox.png" alt="BlackBox" title="BlackBox" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React / React Native" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="36" height="36"/>
 </p>
+
+## ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Pages / Actions" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="36" height="36"/>&nbsp;
+</p>
+
+## 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="36" height="36"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="36" height="36"/>
+</p>
+
+## 🧰 Tools & Editors
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio 2022" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-sublime-text-logo-icon-svg-download-png-2945191.png?f=webp&w=256" title="Sublime Text" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" width="36" height="36"/>&nbsp;
+  <img src="https://dl.flathub.org/media/com/raggesilver/BlackBox/5ea8e6c79d6e7b5384973b766a059ac9/icons/128x128@2/com.raggesilver.BlackBox.png" title="BlackBox" width="36" height="36"/>&nbsp;
+  <img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" title="AI Tools" width="36" height="36"/>
+</p>
+
 
 ---
 
