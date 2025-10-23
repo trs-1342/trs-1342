@@ -103,7 +103,7 @@
 ## 📫 İletişim
 
 - 🌐 [Portföyüm](https://hattab.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/halil-hattab-b961b127a/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/halil-h-b961b127a/)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle;margin-right:8px;" /> [GitHub](https://github.com/trs-1342)
 - ✉️ hattab1342@gmail.com
 
