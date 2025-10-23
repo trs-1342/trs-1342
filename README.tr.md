@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=trs-1342&height=200&fontSize=80&desc=Yazılımda%20ahlaki%20değeri%20savunuyorum.&descAlign=50&descAlignY=75"
+    src="https://capsule-render.vercel.app/api?type=blur&height=400&color=ff0000&text=trs-1342&reversal=true&fontColor=fff&fontSize=90&desc=Yaz%C4%B1l%C4%B1mda%20etik%20ahlak%C4%B1%20savunuyorum.&descSize=42&descAlignY=75"
     alt="trs-1342 kapak görseli"
     style="pointer-events:none; user-select:none;"
     draggable="false"
