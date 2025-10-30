@@ -23,6 +23,9 @@
 - **[ETSTSR](https://github.com/trs-1342/ETSTSR)** – Technical-service management system using Node.js + React + MySQL
 - **[C-LANG](https://github.com/trs-1342/c-lang)** – Academic repository for C algorithms and examples
 
+> [!IMPORTANT]
+> I started a community for the C programming language that we study in the Software Engineering Department at [Istanbul Gelişim University](https://gelisim.edu.tr/), and I am actively working to develop it. I am very happy to be working as the community idea manager.
+
 ---
 
 ## 🌱 Currently Exploring
