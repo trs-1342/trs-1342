@@ -23,6 +23,9 @@
 - **[ETSTSR](https://github.com/trs-1342/ETSTSR)** – React + Node.js + MySQL tabanlı teknik servis yönetim sistemi
 - **[C-LANG](https://github.com/trs-1342/c-lang)** – C dili algoritmaları ve örnekleri için akademik depo
 
+> [!IMPORTANT]
+> [İstanbul Gelişim Üniversitesi](https://gelisim.edu.tr/) Yazılım Mühendisliği Bölümü'nde öğrendiğimiz C programlama dili için bir topluluk kurdum ve aktif olarak geliştirmeye çalışıyorum. Topluluğun fikir yöneticisi olarak çalışmaktan çok mutluyum.
+
 ---
 
 ## 🌱 Şu Anda Öğrendiğim Konular
