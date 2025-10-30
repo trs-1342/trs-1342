@@ -24,7 +24,8 @@
 - **[C-LANG](https://github.com/trs-1342/c-lang)** – C dili algoritmaları ve örnekleri için akademik depo
 
 > [!IMPORTANT]
-> [İstanbul Gelişim Üniversitesi](https://gelisim.edu.tr/) Yazılım Mühendisliği Bölümü'nde öğrendiğimiz C programlama dili için bir topluluk kurdum ve aktif olarak geliştirmeye çalışıyorum. Topluluğun fikir yöneticisi olarak çalışmaktan çok mutluyum.
+> [İstanbul Gelişim Üniversitesi](https://gelisim.edu.tr/) Yazılım Mühendisliği Bölümü'nde öğrendiğimiz C programlama dili için bir topluluk kurdum ve aktif olarak geliştirmeye çalışıyorum. Topluluğun fikir yöneticisi olarak çalışmaktan çok mutluyum.  </br> </br>
+> [iguGH2025](https://github.com/iguGH2025/) & [IGU-Software-Community](https://github.com/IGU-Software-Community/)
 
 ---
 
