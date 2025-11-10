@@ -11,9 +11,9 @@
 [[TR](./README.tr.md)]
 # 👋 Hello, I'm Halil
 
-🎓 Software Engineering student @ Istanbul Gelişim University
-💻 Building full-stack web applications with **Node.js**, **React**, **Next.JS**, **MySql** and **Firebase**
-🔐 Passionate about **cybersecurity**, **clean design**, and **ethical software**
+🎓 Software Engineering student [@Istanbul Gelişim University](https://gelisim.edu.tr/tr/gelisim-anasayfa).<br/>
+💻 Building full-stack web applications with **Node.js**, **React**, **Next.JS**, **MySql** and **Firebase**<br/>
+🔐 Passionate about **cybersecurity**, **clean design**, and **ethical software**<br/>
 
 ---
 
