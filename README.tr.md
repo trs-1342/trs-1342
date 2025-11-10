@@ -11,9 +11,9 @@
 [[EN](./README.md)]
 # 👋 Merhaba, ben Halil
 
-🎓 İstanbul Gelişim Üniversitesi **Yazılım Mühendisliği** öğrencisiyim.
-💻 **Node.js**, **React**, **Next.JS**, **MySql** ve **Firebase** ile full-stack web uygulamaları geliştiriyorum.
-🔐 **Siber güvenlik**, **temiz tasarım** ve **etik yazılım** konularına tutkuyla bağlıyım.
+🎓 [@İstanbul Gelişim Üniversitesi](https://gelisim.edu.tr/tr/gelisim-anasayfa) **Yazılım Mühendisliği** öğrencisiyim.<br/>
+💻 **Node.js**, **React**, **Next.JS**, **MySql** ve **Firebase** ile full-stack web uygulamaları geliştiriyorum.<br/>
+🔐 **Siber güvenlik**, **temiz tasarım** ve **etik yazılım** konularına tutkuyla bağlıyım.<br/>
 
 ---
 
