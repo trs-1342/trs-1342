@@ -1,76 +1,75 @@
 <p align="center">
   <img
-    src="https://camo.githubusercontent.com/ada41730b3c7a0cf4b3d2c6ba4d008040d41aa9cbbe2d3e5dc0e33113ad440ad/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d626c7572266865696768743d34303026636f6c6f723d66663030303026746578743d7472732d3133343226666f6e7453697a653d393026646573633d49253230646566656e642532307468652532306d6f72616c253230636f6e63657074253230696e253230736f6674776172652e266465736353697a653d34302664657363416c69676e3d35302664657363416c69676e593d373526726576657273616c3d747275652673656374696f6e3d666f6f74657226666f6e74436f6c6f723d666666"
-    alt="trs-1342 cover image"
+    src="https://capsule-render.vercel.app/api?type=blur&height=400&color=ff0000&text=trs-1342&reversal=true&fontColor=fff&fontSize=90&desc=Yaz%C4%B1l%C4%B1mda%20etik%20ahlak%C4%B1%20savunuyorum.&descSize=42&descAlignY=75"
+    alt="trs-1342 kapak görseli"
     style="pointer-events:none; user-select:none;"
     draggable="false"
   />
 </p>
 
 ---
-[[TR](./README.tr.md)]
-# 👋 Hello, I'm Halil
+# 👋 Merhaba, ben Halil
 
-🎓 Software Engineering student [@Istanbul Gelişim University](https://gelisim.edu.tr/tr/gelisim-anasayfa).<br/>
-💻 Building full-stack web applications with **Node.js**, **React**, **Next.JS**, **MySql** and **Firebase**<br/>
-🔐 Passionate about **cybersecurity**, **clean design**, and **ethical software**<br/>
-
----
-
-## 🔭 Current Projects
-
-- **[BUDU](https://github.com/trs-1342/budu)** – Design-course platform built with React + MySql
-- **[ETSTSR](https://github.com/trs-1342/ETSTSR)** – Technical-service management system using Node.js + React + MySQL
-- **[C-LANG](https://github.com/trs-1342/c-lang)** – Academic repository for C algorithms and examples
-
-> [!IMPORTANT]
-> I started a community for the C programming language that we study in the Software Engineering Department at [Istanbul Gelişim University](https://gelisim.edu.tr/), and I am actively working to develop it. I am very happy to be working as the community idea manager. </br> </br>
-> [iguGH2025](https://github.com/iguGH2025/) & [IGU-Software-Community](https://github.com/IGU-Software-Community/)
+🎓 [@İstanbul Gelişim Üniversitesi](https://gelisim.edu.tr/tr/gelisim-anasayfa) **Yazılım Mühendisliği** öğrencisiyim.<br/>
+💻 **Node.js**, **React**, **Next.JS**, **MySql** ve **Firebase** ile full-stack web uygulamaları geliştirmekle ilgileniyorum.<br/>
+🔐 **Siber güvenlik**, **temiz tasarım** ve **etik yazılım** kavramları ile hareket ediyorum.<br/>
 
 ---
 
-## 🌱 Currently Exploring
+## 🔭 Şu Anda Üzerinde Çalıştıklarım
 
-- **DevOps & Server Management** within Node.js ecosystem  
-- **React performance** and **Next.js optimization**
-- **Serverless architecture** using Firebase Functions
-- **Linux & cybersecurity** fundamentals
+- **[BUDU](https://github.com/trs-1342/budu)** – React + MySql ile geliştirilen tasarım eğitimi platformu
+- **[BUDU](https://github.com/trs-1342/web)** – Web alanı için öğrendiklerimi bu projeye ekledim. (AI olmadan öğrenmeye karar aldım.)
 
----
-
-## 📌 Featured Projects
-
-| Project                                       | Technologies  | Description                                                                                | Link                                           |
-| --------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| <img src="./assets/etstsr.svg" height="24" /> | JavaScript    | A system for technical services to record and manage devices                               | [Repo](https://github.com/trs-1342/ETSTSR)     |
-| BUDU 🎨                                       | TypeScript    | An educational platform where designers upload video courses and users learn after payment | [Repo](https://github.com/trs-1342/budu)       |
-| C-Lang 📘                                     | C             | Examples and exercises for my 1st-year university C programming course                     | [Repo](https://github.com/trs-1342/c-lang)     |
-| My Portfolio 🌐                               | Next.JS & Vercel | A simple personal website (to be developed further)                                        | [Repo](https://github.com/trs-1342/my-portfolio) & [Web Site](https://hattab.vercel.app/) |
+> [!IMPORTANT]  
+> [İstanbul Gelişim Üniversitesi](https://gelisim.edu.tr/) Yazılım Mühendisliği Bölümü'nde öğrendiğimiz C programlama dili için bir topluluk kurdum ve aktif olarak geliştirmeye çalışıyorum. Topluluğun fikir yöneticisi olarak çalışmaktan çok mutluyum. [iguGH2025](https://github.com/iguGH2025/) & [IGU-Software-Community](https://github.com/IGU-Software-Community/)
 
 ---
 
-## 🧱 Tech Stack
+## 🌱 Şu Anda Öğrenmekte Olduğum Konular
+- tek başıma WEB alanında hakim olmak için **HTML**, **CSS** ve **JavaScript** öğreniyorum.
 
-### 🧠 Languages
+## AI ile Öğrenmekte Olduğum Konular
+- Node.js ekosisteminde **DevOps ve Sunucu Yönetimi**  
+- **React performans optimizasyonu** ve **Next.js geliştirmeleri**  
+- **Firebase Functions** ile **serverless mimariler**  
+- **Linux** ve **Siber Güvenlik** temelleri  
+
+---
+
+## 📌 Öne Çıkan Projeler
+
+| Proje                                         | Teknolojiler        | Açıklama                                                                 | Bağlantı                                        |
+| --------------------------------------------- | ------------------- | ------------------------------------------------------------------------- | ----------------------------------------------- |
+| <img src="./assets/etstsr.svg" height="24" /> | JavaScript          | Cihazların kayıt ve yönetimini sağlayan teknik servis sistemi             | [Depo](https://github.com/trs-1342/ETSTSR)      |
+| BUDU 🎨                                       | TypeScript          | Tasarımcıların video ders yükleyip kullanıcıların izleyebildiği eğitim platformu | [Depo](https://github.com/trs-1342/budu)        |
+| C-Lang 📘                                     | C                  | Üniversitedeki C programlama dersim için örnekler ve alıştırmalar         | [Depo](https://github.com/trs-1342/c-lang)      |
+| Kişisel Portfolyo 🌐                          | Next.js & Vercel    | Basit bir kişisel web sitesi (geliştirilmeye devam ediyor)                | [Depo](https://github.com/trs-1342/my-portfolio) |
+| Web | HTML, CSS, JavaScript          | Web teknolojilerinin temelini öğrendiğim ve repoya yüklediğim proje             | [Depo](https://github.com/trs-1342/web)      |
+---
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="36" height="36"/>&nbsp; -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="36" height="36"/>&nbsp; -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="36" height="36"/> -->
+
+## 🧱 Teknoloji Yığını (Tech Stack)
+
+### 🧠 Diller
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="36" height="36"/>
 </p>
 
-### ⚙️ Frameworks & Runtimes
+### ⚙️ AI ile Frameworkler ve Çalışma Ortamları
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="36" height="36"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=Pxe6MGswB8pX&format=png" title="EJS" width="36" height="36"/>
 </p>
 
-### ☁️ Cloud & Deployment
+### ☁️ AI ile Bulut ve Dağıtım
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="36" height="36"/>&nbsp;
@@ -78,24 +77,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Actions / Pages" width="36" height="36"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ AI ile Veritabanları
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="36" height="36"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="36" height="36"/>
 </p>
 
-### 🧰 Tools & Editors
+### 🧰 Araçlar ve Editörler
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio 2022" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" width="36" height="36"/>&nbsp;
   <img src="https://dl.flathub.org/media/com/raggesilver/BlackBox/5ea8e6c79d6e7b5384973b766a059ac9/icons/128x128@2/com.raggesilver.BlackBox.png" title="BlackBox" width="36" height="36"/>&nbsp;
-  <img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" title="AI Tools" width="36" height="36"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" title="Yapay Zekâ Araçları" width="36" height="36"/>
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trs-1342&show_icons=true&hide_border=false&theme=transparent" height="150" />
@@ -104,28 +103,32 @@
 
 ---
 
-## 📫 Contact
+## 📫 İletişim
 
-- 🌐 [Portfolio](https://hattab.vercel.app/)
+- 🌐 [Portföyüm](https://hattab.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/halil-h-b961b127a/)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle;margin-right:8px;" /> [GitHub](https://github.com/trs-1342)
 - ✉️ hattab1342@gmail.com
 
 ---
 
-## ⚡ A Few Things About Me
+## ⚡ Hakkımda Birkaç Şey
 
-- I believe software is not just code — it’s a reflection of ethics.  
-- I enjoy exploring intersections between **philosophy, science, and technology**.
-- Books, minimal design, and long debates keep me inspired.  
-- I build things that I want to *outlive* me.
+- Yazılımın sadece kod olmadığını, **ahlaki bir yansıma** olduğunu düşünüyorum.
+- **Felsefe, bilim ve teknoloji** kesişimlerini keşfetmeyi seviyorum.  
+- Kitaplar, minimal tasarımlar ve uzun tartışmalar beni motive eder.  
+- Ardımda **benimle birlikte değil, benden sonra da yaşayan** işler bırakmak istiyorum.
 
 ---
 
-<h2 align="center">Support My Work</h2>
-<p align="center">If you find my work valuable, you can support me by buying me a coffee!</p>
+---
+> Son zamanlarda gelişen AI teknolojisi ile gittikçe körelen kodlama bilgilerim için endişelenmeye başladığımı fark ettim. Ama artık gerçekten temelimi sağlam atmayı, 0'dan başlamayı ve kendimi **körelten teknolojileri** kullanmaktansa doğru ve faydalı bir şekilde dikkatli kullanma kararı aldım. Bunu burada birilerin okuması için değil, kendi dürüstlüğümle ve artık olanları kabullendiğimi ilan ederek artık yeni bir sayfa açtığımı ilan ediyorum =).
+---
+
+<h2 align="center">Çalışmalarımı Destekle</h2>
+<p align="center">Eğer yaptığım çalışmaları faydalı buluyorsan, bana bir kahve ısmarlayarak destek olabilirsin ☕</p>
 <p align="center">
   <a href="https://www.buymeacoffee.com/trs1342" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/bmc.png" alt="Buy me a coffee" width="180">
+    <img src="./assets/bmc.png" alt="Bana bir kahve ısmarla" width="180">
   </a>
 </p>
