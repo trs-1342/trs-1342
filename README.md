@@ -8,6 +8,7 @@
 </p>
 
 ---
+
 # 👋 Merhaba, ben Halil
 
 🎓 [@İstanbul Gelişim Üniversitesi](https://gelisim.edu.tr/tr/gelisim-anasayfa) **Yazılım Mühendisliği** öğrencisiyim.<br/>
@@ -27,41 +28,45 @@
 ---
 
 ## 🌱 Şu Anda Öğrenmekte Olduğum Konular
+
 - tek başıma WEB alanında hakim olmak için **HTML**, **CSS** ve **JavaScript** öğreniyorum.
 
 ## AI ile Öğrenmekte Olduğum Konular
-- Node.js ekosisteminde **DevOps ve Sunucu Yönetimi**  
-- **React performans optimizasyonu** ve **Next.js geliştirmeleri**  
-- **Firebase Functions** ile **serverless mimariler**  
-- **Linux** ve **Siber Güvenlik** temelleri  
+
+- Node.js ekosisteminde **DevOps ve Sunucu Yönetimi**
+- **React performans optimizasyonu** ve **Next.js geliştirmeleri**
+- **Firebase Functions** ile **serverless mimariler**
+- **Linux** ve **Siber Güvenlik** temelleri
 
 ---
 
 ## 📌 Öne Çıkan Projeler
 
-| Proje                                         | Teknolojiler        | Açıklama                                                                 | Bağlantı                                        |
-| --------------------------------------------- | ------------------- | ------------------------------------------------------------------------- | ----------------------------------------------- |
-| <img src="./assets/etstsr.svg" height="24" /> | JavaScript          | Cihazların kayıt ve yönetimini sağlayan teknik servis sistemi             | [Depo](https://github.com/trs-1342/ETSTSR)      |
-| BUDU 🎨                                       | TypeScript          | Tasarımcıların video ders yükleyip kullanıcıların izleyebildiği eğitim platformu | [Depo](https://github.com/trs-1342/budu)        |
-| C-Lang 📘                                     | C                  | Üniversitedeki C programlama dersim için örnekler ve alıştırmalar         | [Depo](https://github.com/trs-1342/c-lang)      |
-| Kişisel Portfolyo 🌐                          | Next.js & Vercel    | Basit bir kişisel web sitesi (geliştirilmeye devam ediyor)                | [Depo](https://github.com/trs-1342/my-portfolio) |
-| Web | HTML, CSS, JavaScript          | Web teknolojilerinin temelini öğrendiğim ve repoya yüklediğim proje             | [Depo](https://github.com/trs-1342/web)      |
----
+| Proje                                         | Teknolojiler          | Açıklama                                                                         | Bağlantı                                         |
+| --------------------------------------------- | --------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------ |
+| <img src="./assets/etstsr.svg" height="24" /> | JavaScript            | Cihazların kayıt ve yönetimini sağlayan teknik servis sistemi                    | [Depo](https://github.com/trs-1342/ETSTSR)       |
+| BUDU 🎨                                       | TypeScript            | Tasarımcıların video ders yükleyip kullanıcıların izleyebildiği eğitim platformu | [Depo](https://github.com/trs-1342/budu)         |
+| C-Lang 📘                                     | C                     | Üniversitedeki C programlama dersim için örnekler ve alıştırmalar                | [Depo](https://github.com/trs-1342/c-lang)       |
+| Kişisel Portfolyo 🌐                          | Next.js & Vercel      | Basit bir kişisel web sitesi (geliştirilmeye devam ediyor)                       | [Depo](https://github.com/trs-1342/my-portfolio) |
+| Web                                           | HTML, CSS, JavaScript | Web teknolojilerinin temelini öğrendiğim ve repoya yüklediğim proje              | [Depo](https://github.com/trs-1342/web)          |
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="36" height="36"/>&nbsp; -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="36" height="36"/>&nbsp; -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="36" height="36"/> -->
+---
 
 ## 🧱 Teknoloji Yığını (Tech Stack)
 
 ### 🧠 Diller
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="36" height="36"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="36" height="36"/>&nbsp;
+  <img src="https://www.clipartmax.com/png/middle/68-688026_html-5-icon-html5-css3-logo-png.png" title="HTML-JS-CSS" width="126" height="46"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="36" height="36"/>&nbsp; -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="36" height="36"/>&nbsp; -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="36" height="36"/> -->
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="36" height="36"/>&nbsp;-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="36" height="36"/>&nbsp;
 </p>
 
 ### ⚙️ AI ile Frameworkler ve Çalışma Ortamları
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="36" height="36"/>&nbsp;
@@ -70,6 +75,7 @@
 </p>
 
 ### ☁️ AI ile Bulut ve Dağıtım
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="36" height="36"/>&nbsp;
@@ -78,12 +84,14 @@
 </p>
 
 ### 🗄️ AI ile Veritabanları
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="36" height="36"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="36" height="36"/>
 </p>
 
 ### 🧰 Araçlar ve Editörler
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="36" height="36"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio 2022" width="36" height="36"/>&nbsp;
@@ -115,14 +123,14 @@
 ## ⚡ Hakkımda Birkaç Şey
 
 - Yazılımın sadece kod olmadığını, **ahlaki bir yansıma** olduğunu düşünüyorum.
-- **Felsefe, bilim ve teknoloji** kesişimlerini keşfetmeyi seviyorum.  
-- Kitaplar, minimal tasarımlar ve uzun tartışmalar beni motive eder.  
+- **Felsefe, bilim ve teknoloji** kesişimlerini keşfetmeyi seviyorum.
+- Kitaplar, minimal tasarımlar ve uzun tartışmalar beni motive eder.
 - Ardımda **benimle birlikte değil, benden sonra da yaşayan** işler bırakmak istiyorum.
 
 ---
 
----
 > Son zamanlarda gelişen AI teknolojisi ile gittikçe körelen kodlama bilgilerim için endişelenmeye başladığımı fark ettim. Ama artık gerçekten temelimi sağlam atmayı, 0'dan başlamayı ve kendimi **körelten teknolojileri** kullanmaktansa doğru ve faydalı bir şekilde dikkatli kullanma kararı aldım. Bunu burada birilerin okuması için değil, kendi dürüstlüğümle ve artık olanları kabullendiğimi ilan ederek artık yeni bir sayfa açtığımı ilan ediyorum =).
+
 ---
 
 <h2 align="center">Çalışmalarımı Destekle</h2>
