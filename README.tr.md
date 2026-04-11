@@ -74,11 +74,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-hattab.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hattab.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-trs--1342-181717?style=flat&logo=github&logoColor=white)](https://github.com/trs-1342)
 [![E-posta](https://img.shields.io/badge/E--posta-hattab1342@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hattab1342@gmail.com)
-
----
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/trs1342" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/bmc.png" alt="Bana bir kahve ısmarla" width="160">
-  </a>
-</p>
