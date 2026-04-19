@@ -76,9 +76,4 @@ Founder of [IGU Software Community](https://github.com/IGU-Software-Community/)
 [![Email](https://img.shields.io/badge/Email-hattab1342@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hattab1342@gmail.com)
 
 ---
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/trs1342" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/bmc.png" alt="Buy me a coffee" width="160">
-  </a>
-</p>
+<a href="https://www.buymeacoffee.com/trs1342" target="_blank" rel="noopener noreferrer">Buy me a coffee</a>
