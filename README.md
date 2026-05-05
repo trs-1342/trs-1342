@@ -26,7 +26,7 @@ Founder of [IGU Software Community](https://github.com/IGU-Software-Community/)
 
 | Project | Stack | Description | Links |
 |---|---|---|---|
-| **my-portfolio** | Next.js · Vercel | Personal portfolio & website | [Live](https://hattab.vercel.app/) · [Repo](https://github.com/trs-1342/my-portfolio) |
+| **my-portfolio** | Next.js · Vercel | Personal portfolio & website | [Live](https://hattab.dev/) · [Repo](https://github.com/trs-1342/my-portfolio) |
 | **openuni** | Next.js · Firebase | Channel-based community platform for IGU students | [Live](https://openigu.vercel.app/) · [Repo](https://github.com/trs-1342/openuni) |
 | **alms** | Python · CLI | Single-command access to IGU ALMS & OBİS — downloads course materials, shows exam dates, works offline | [Repo](https://github.com/trs-1342/alms) |
 | **budu** | React · Node.js | Full-stack design education platform with separate client and server codebases | [Live](https://bushradukhan.com/) · [Repo](https://github.com/trs-1342/budu) |
@@ -69,7 +69,7 @@ Founder of [IGU Software Community](https://github.com/IGU-Software-Community/)
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hattab.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://hattab.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hattab.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://hattab.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-halilhattabh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halilhattabh)
 [![Instagram](https://img.shields.io/badge/Instagram-hattab.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hattab.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-trs--1342-181717?style=flat&logo=github&logoColor=white)](https://github.com/trs-1342)
