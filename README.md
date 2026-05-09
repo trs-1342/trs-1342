@@ -69,7 +69,7 @@ Founder of [IGU Software Community](https://github.com/IGU-Software-Community/)
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hattab.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://hattab.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hattab.dev-000000?style=flat&logo=vercel&logoColor=white)](https://hattab.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-halilhattabh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halilhattabh)
 [![GitHub](https://img.shields.io/badge/GitHub-trs--1342-181717?style=flat&logo=github&logoColor=white)](https://github.com/trs-1342)
 [![Email](https://img.shields.io/badge/Email-hattab1342@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hattab1342@gmail.com)
